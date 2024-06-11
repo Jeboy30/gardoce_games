@@ -1,0 +1,2 @@
+def show_instructions(self):
+        messagebox.showinfo("Instructions", "Welcome to Brain Training!\n\nInstructions:\n1. Select a difficulty level.\n2. Answer the math questions within the time limit.\n3. Try to score as high as possible!\n\nGood luck!")
